@@ -1,0 +1,1 @@
+chiamate=int(input())
